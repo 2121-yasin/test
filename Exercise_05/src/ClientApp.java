@@ -4,9 +4,9 @@ public class ClientApp {
 		// TODO Auto-generated method stub
 		
 		
-		Course[] list1 = {new Course(), new Course(), new Course()}; //innitialise at instantiation
-		Course[] list2 = {new Course(), new Course(), new Course()}; //innitialise at instantiation
-		Course[] list3 = {new Course(), new Course(), new Course()}; //innitialise at instantiation
+		//Course[] list1 = {new Course(), new Course(), new Course()}; //innitialise at instantiation
+		//Course[] list2 = {new Course(), new Course(), new Course()}; //innitialise at instantiation
+		//Course[] list3 = {new Course(), new Course(), new Course()}; //innitialise at instantiation
 		
 		Student s1,s2,s3,s4,s5; //create objects==>innitialise this
 		s1=new Student("Joseph", 101);
